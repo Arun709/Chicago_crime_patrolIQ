@@ -1,0 +1,8 @@
+venv/
+.venv/
+mlruns/
+__pycache__/
+*.pyc
+chicago_crimes_preprocessed.csv
+chicago_crimes_with_clusters.csv
+Chicago_Crimes.csv
